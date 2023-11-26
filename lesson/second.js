@@ -11,4 +11,4 @@ console.log(d / 2)
 let inf1 = 1
 let inf2 = 0
 
-console.log( inf1 / inf2)
+console.log( inf1 / inf2) 

@@ -21,4 +21,4 @@ console.log(typeof person)
 // Null
 let age = null
 
-console.log(age)
+console.log(age) 
